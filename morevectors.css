@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'MoreVectors';
+    src: url('morevectors.eot');
+    src: url('morevectors.eot') format('embedded-opentype'),
+         url('morevectors.woff') format('woff'),
+         url('morevectors.ttf') format('truetype'),
+         url('morevectors.svg#MorevectorsIconFontRegular') format('svg');
+}
