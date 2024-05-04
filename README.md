@@ -16,7 +16,9 @@ Then to use an icon:
 <i class="mv mv-apple"></i>
 ```
 
-To use with CSS as a pseudo-selector, just copy the CSS from the stylesheet, and apply to a <code>:before</code> or <code>:after</code> pseudo-selector.
+### Custom CSS usage
+
+To apply the icons to a custom selector, first apply the font to the selector:
 
 ```css
 .my-element {
@@ -31,11 +33,17 @@ To use with CSS as a pseudo-selector, just copy the CSS from the stylesheet, and
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+```
+
+Specify the **content** value for the icon in a <code>:before</code> or <code>:after</code> pseudo-selector.
+
+```css
 .my-element:before {
   content: "\e600";
 }
 ```
-replace the *content* value with the appropriate unicode value for the icon.
+
+Use the appropriate unicode value for the icon, as indicated in the [demo](demo.html).
 
 ## Changelog
 
