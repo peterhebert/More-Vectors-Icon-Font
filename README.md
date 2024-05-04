@@ -47,137 +47,662 @@ Use the appropriate unicode value for the icon, as indicated below.
 
 ## Glyphs unicode reference
 
-| name | unicode |
-------------------
-| aim | \e600 | 
-| amazon | \e601 | 
-| android | \e602 | 
-| apple | \e603 | 
-| apple-app-store | \e604 | 
-| avatar | \e605 | 
-| aws | \e606 | 
-| badoo | \e607 | 
-| basecamp | \e608 | 
-| bazaar | \e609 | 
-| behance | \e60a | 
-| bing | \e60b | 
-| bitbucket | \e60c | 
-| bitcoin | \e60d | 
-| blackberry | \e60e | 
-| blip | \e60f | 
-| blogger | \e610 | 
-| cc | \e611 | 
-| cc-by | \e612 | 
-| cc-nc | \e613 | 
-| cc-nc-eu | \e614 | 
-| cc-nc-jp | \e615 | 
-| cc-nd | \e616 | 
-| cc-pd | \e617 | 
-| cc-remix | \e618 | 
-| cc-sa | \e619 | 
-| cc-sampling | \e61a | 
-| cc-sampling-plus | \e61b | 
-| cc-share | \e61c | 
-| cc-zero | \e61d | 
-| coroflot | \e61e | 
-| css3 | \e61f | 
-| delicious | \e620 | 
-| designmoo | \e621 | 
-| deviantart | \e622 | 
-| digg | \e623 | 
-| digg-alt | \e624 | 
-| dribble | \e625 | 
-| dropbox | \e626 | 
-| drupal | \e627 | 
-| ebay | \e628 | 
-| ember | \e629 | 
-| envelope | \e62a | 
-| etsy | \e62b | 
-| evernote | \e62c | 
-| facebook | \e62d | 
-| facebook-places | \e62e | 
-| feedburner | \e62f | 
-| flickr | \e630 | 
-| forrst | \e631 | 
-| foursquare | \e632 | 
-| git | \e633 | 
-| github | \e634 | 
-| gnome | \e635 | 
-| google | \e636 | 
-| google-hangouts | \e637 | 
-| google-play | \e638 | 
-| google-plus | \e639 | 
-| grooveshark | \e63a | 
-| html5 | \e63b | 
-| hype-machine | \e63c | 
-| hyves | \e63d | 
-| icloud | \e63e | 
-| icq | \e63f | 
-| identica | \e640 | 
-| instagram | \e641 | 
-| instapaper | \e642 | 
-| itunes | \e643 | 
-| joomla | \e644 | 
-| kde | \e645 | 
-| lastfm | \e646 | 
-| launchpad | \e647 | 
-| linkedin | \e648 | 
-| linux | \e649 | 
-| livejournal | \e64a | 
-| mercurial | \e64b | 
-| metacafe | \e64c | 
-| myspace | \e64d | 
-| newsvine | \e64e | 
-| openid | \e64f | 
-| orkut | \e650 | 
-| paypal | \e651 | 
-| phone | \e652 | 
-| photobucket | \e653 | 
-| picasa | \e654 | 
-| pinterest | \e655 | 
-| podcast | \e656 | 
-| quik | \e657 | 
-| rdio | \e658 | 
-| reddit | \e659 | 
-| retweet | \e65a | 
-| rss | \e65b | 
-| scribd | \e65c | 
-| sharethis | \e65d | 
-| skype | \e65e | 
-| slashdot | \e65f | 
-| slideshare | \e660 | 
-| smugmug | \e661 | 
-| soundcloud | \e662 | 
-| spotify | \e663 | 
-| springme | \e664 | 
-| squarespace | \e665 | 
-| squidoo | \e666 | 
-| stackoverflow | \e667 | 
-| steam | \e668 | 
-| stumbleupon | \e669 | 
-| subversion | \e66a | 
-| tagged | \e66b | 
-| technorati | \e66c | 
-| tumblr | \e66d | 
-| twitter | \e66e | 
-| ubuntu | \e66f | 
-| viddler | \e670 | 
-| vimeo | \e671 | 
-| vine | \e672 | 
-| virb | \e673 | 
-| w3 | \e674 | 
-| weibo | \e675 | 
-| wikipedia | \e676 | 
-| wordpress | \e677 | 
-| xing | \e678 | 
-| xmpp | \e679 | 
-| yahoo | \e67a | 
-| yahoo-messenger | \e67b | 
-| windows | \e67c | 
-| yelp | \e67d | 
-| youtube-play | \e67e | 
-| zootool | \e67f | 
-| youtube | \e680 | 
+<table border="1" cellpadding="2">
+	<thead>
+		<th>name</th>
+		<th>unicode</th>
+	</thead>
+	<tbody>
+
+<tr>
+
+<td>aim</td>
+<td>\e600</td>
+</tr>
+<tr>
+
+<td>amazon</td>
+<td>\e601</td>
+</tr>
+<tr>
+
+<td>android</td>
+<td>\e602</td>
+</tr>
+<tr>
+
+<td>apple</td>
+<td>\e603</td>
+</tr>
+<tr>
+
+<td>apple-app-store</td>
+<td>\e604</td>
+</tr>
+<tr>
+
+<td>avatar</td>
+<td>\e605</td>
+</tr>
+<tr>
+
+<td>aws</td>
+<td>\e606</td>
+</tr>
+<tr>
+
+<td>badoo</td>
+<td>\e607</td>
+</tr>
+<tr>
+
+<td>basecamp</td>
+<td>\e608</td>
+</tr>
+<tr>
+
+<td>bazaar</td>
+<td>\e609</td>
+</tr>
+<tr>
+
+<td>behance</td>
+<td>\e60a</td>
+</tr>
+<tr>
+
+<td>bing</td>
+<td>\e60b</td>
+</tr>
+<tr>
+
+<td>bitbucket</td>
+<td>\e60c</td>
+</tr>
+<tr>
+
+<td>bitcoin</td>
+<td>\e60d</td>
+</tr>
+<tr>
+
+<td>blackberry</td>
+<td>\e60e</td>
+</tr>
+<tr>
+
+<td>blip</td>
+<td>\e60f</td>
+</tr>
+<tr>
+
+<td>blogger</td>
+<td>\e610</td>
+</tr>
+<tr>
+
+<td>cc</td>
+<td>\e611</td>
+</tr>
+<tr>
+
+<td>cc-by</td>
+<td>\e612</td>
+</tr>
+<tr>
+
+<td>cc-nc</td>
+<td>\e613</td>
+</tr>
+<tr>
+
+<td>cc-nc-eu</td>
+<td>\e614</td>
+</tr>
+<tr>
+
+<td>cc-nc-jp</td>
+<td>\e615</td>
+</tr>
+<tr>
+
+<td>cc-nd</td>
+<td>\e616</td>
+</tr>
+<tr>
+
+<td>cc-pd</td>
+<td>\e617</td>
+</tr>
+<tr>
+
+<td>cc-remix</td>
+<td>\e618</td>
+</tr>
+<tr>
+
+<td>cc-sa</td>
+<td>\e619</td>
+</tr>
+<tr>
+
+<td>cc-sampling</td>
+<td>\e61a</td>
+</tr>
+<tr>
+
+<td>cc-sampling-plus</td>
+<td>\e61b</td>
+</tr>
+<tr>
+
+<td>cc-share</td>
+<td>\e61c</td>
+</tr>
+<tr>
+
+<td>cc-zero</td>
+<td>\e61d</td>
+</tr>
+<tr>
+
+<td>coroflot</td>
+<td>\e61e</td>
+</tr>
+<tr>
+
+<td>css3</td>
+<td>\e61f</td>
+</tr>
+<tr>
+
+<td>delicious</td>
+<td>\e620</td>
+</tr>
+<tr>
+
+<td>designmoo</td>
+<td>\e621</td>
+</tr>
+<tr>
+
+<td>deviantart</td>
+<td>\e622</td>
+</tr>
+<tr>
+
+<td>digg</td>
+<td>\e623</td>
+</tr>
+<tr>
+
+<td>digg-alt</td>
+<td>\e624</td>
+</tr>
+<tr>
+
+<td>dribble</td>
+<td>\e625</td>
+</tr>
+<tr>
+
+<td>dropbox</td>
+<td>\e626</td>
+</tr>
+<tr>
+
+<td>drupal</td>
+<td>\e627</td>
+</tr>
+<tr>
+
+<td>ebay</td>
+<td>\e628</td>
+</tr>
+<tr>
+
+<td>ember</td>
+<td>\e629</td>
+</tr>
+<tr>
+
+<td>envelope</td>
+<td>\e62a</td>
+</tr>
+<tr>
+
+<td>etsy</td>
+<td>\e62b</td>
+</tr>
+<tr>
+
+<td>evernote</td>
+<td>\e62c</td>
+</tr>
+<tr>
+
+<td>facebook</td>
+<td>\e62d</td>
+</tr>
+<tr>
+
+<td>facebook-places</td>
+<td>\e62e</td>
+</tr>
+<tr>
+
+<td>feedburner</td>
+<td>\e62f</td>
+</tr>
+<tr>
+
+<td>flickr</td>
+<td>\e630</td>
+</tr>
+<tr>
+
+<td>forrst</td>
+<td>\e631</td>
+</tr>
+<tr>
+
+<td>foursquare</td>
+<td>\e632</td>
+</tr>
+<tr>
+
+<td>git</td>
+<td>\e633</td>
+</tr>
+<tr>
+
+<td>github</td>
+<td>\e634</td>
+</tr>
+<tr>
+
+<td>gnome</td>
+<td>\e635</td>
+</tr>
+<tr>
+
+<td>google</td>
+<td>\e636</td>
+</tr>
+<tr>
+
+<td>google-hangouts</td>
+<td>\e637</td>
+</tr>
+<tr>
+
+<td>google-play</td>
+<td>\e638</td>
+</tr>
+<tr>
+
+<td>google-plus</td>
+<td>\e639</td>
+</tr>
+<tr>
+
+<td>grooveshark</td>
+<td>\e63a</td>
+</tr>
+<tr>
+
+<td>html5</td>
+<td>\e63b</td>
+</tr>
+<tr>
+
+<td>hype-machine</td>
+<td>\e63c</td>
+</tr>
+<tr>
+
+<td>hyves</td>
+<td>\e63d</td>
+</tr>
+<tr>
+
+<td>icloud</td>
+<td>\e63e</td>
+</tr>
+<tr>
+
+<td>icq</td>
+<td>\e63f</td>
+</tr>
+<tr>
+
+<td>identica</td>
+<td>\e640</td>
+</tr>
+<tr>
+
+<td>instagram</td>
+<td>\e641</td>
+</tr>
+<tr>
+
+<td>instapaper</td>
+<td>\e642</td>
+</tr>
+<tr>
+
+<td>itunes</td>
+<td>\e643</td>
+</tr>
+<tr>
+
+<td>joomla</td>
+<td>\e644</td>
+</tr>
+<tr>
+
+<td>kde</td>
+<td>\e645</td>
+</tr>
+<tr>
+
+<td>lastfm</td>
+<td>\e646</td>
+</tr>
+<tr>
+
+<td>launchpad</td>
+<td>\e647</td>
+</tr>
+<tr>
+
+<td>linkedin</td>
+<td>\e648</td>
+</tr>
+<tr>
+
+<td>linux</td>
+<td>\e649</td>
+</tr>
+<tr>
+
+<td>livejournal</td>
+<td>\e64a</td>
+</tr>
+<tr>
+
+<td>mercurial</td>
+<td>\e64b</td>
+</tr>
+<tr>
+
+<td>metacafe</td>
+<td>\e64c</td>
+</tr>
+<tr>
+
+<td>myspace</td>
+<td>\e64d</td>
+</tr>
+<tr>
+
+<td>newsvine</td>
+<td>\e64e</td>
+</tr>
+<tr>
+
+<td>openid</td>
+<td>\e64f</td>
+</tr>
+<tr>
+
+<td>orkut</td>
+<td>\e650</td>
+</tr>
+<tr>
+
+<td>paypal</td>
+<td>\e651</td>
+</tr>
+<tr>
+
+<td>phone</td>
+<td>\e652</td>
+</tr>
+<tr>
+
+<td>photobucket</td>
+<td>\e653</td>
+</tr>
+<tr>
+
+<td>picasa</td>
+<td>\e654</td>
+</tr>
+<tr>
+
+<td>pinterest</td>
+<td>\e655</td>
+</tr>
+<tr>
+
+<td>podcast</td>
+<td>\e656</td>
+</tr>
+<tr>
+
+<td>quik</td>
+<td>\e657</td>
+</tr>
+<tr>
+
+<td>rdio</td>
+<td>\e658</td>
+</tr>
+<tr>
+
+<td>reddit</td>
+<td>\e659</td>
+</tr>
+<tr>
+
+<td>retweet</td>
+<td>\e65a</td>
+</tr>
+<tr>
+
+<td>rss</td>
+<td>\e65b</td>
+</tr>
+<tr>
+
+<td>scribd</td>
+<td>\e65c</td>
+</tr>
+<tr>
+
+<td>sharethis</td>
+<td>\e65d</td>
+</tr>
+<tr>
+
+<td>skype</td>
+<td>\e65e</td>
+</tr>
+<tr>
+
+<td>slashdot</td>
+<td>\e65f</td>
+</tr>
+<tr>
+
+<td>slideshare</td>
+<td>\e660</td>
+</tr>
+<tr>
+
+<td>smugmug</td>
+<td>\e661</td>
+</tr>
+<tr>
+
+<td>soundcloud</td>
+<td>\e662</td>
+</tr>
+<tr>
+
+<td>spotify</td>
+<td>\e663</td>
+</tr>
+<tr>
+
+<td>springme</td>
+<td>\e664</td>
+</tr>
+<tr>
+
+<td>squarespace</td>
+<td>\e665</td>
+</tr>
+<tr>
+
+<td>squidoo</td>
+<td>\e666</td>
+</tr>
+<tr>
+
+<td>stackoverflow</td>
+<td>\e667</td>
+</tr>
+<tr>
+
+<td>steam</td>
+<td>\e668</td>
+</tr>
+<tr>
+
+<td>stumbleupon</td>
+<td>\e669</td>
+</tr>
+<tr>
+
+<td>subversion</td>
+<td>\e66a</td>
+</tr>
+<tr>
+
+<td>tagged</td>
+<td>\e66b</td>
+</tr>
+<tr>
+
+<td>technorati</td>
+<td>\e66c</td>
+</tr>
+<tr>
+
+<td>tumblr</td>
+<td>\e66d</td>
+</tr>
+<tr>
+
+<td>twitter</td>
+<td>\e66e</td>
+</tr>
+<tr>
+
+<td>ubuntu</td>
+<td>\e66f</td>
+</tr>
+<tr>
+
+<td>viddler</td>
+<td>\e670</td>
+</tr>
+<tr>
+
+<td>vimeo</td>
+<td>\e671</td>
+</tr>
+<tr>
+
+<td>vine</td>
+<td>\e672</td>
+</tr>
+<tr>
+
+<td>virb</td>
+<td>\e673</td>
+</tr>
+<tr>
+
+<td>w3</td>
+<td>\e674</td>
+</tr>
+<tr>
+
+<td>weibo</td>
+<td>\e675</td>
+</tr>
+<tr>
+
+<td>wikipedia</td>
+<td>\e676</td>
+</tr>
+<tr>
+
+<td>wordpress</td>
+<td>\e677</td>
+</tr>
+<tr>
+
+<td>xing</td>
+<td>\e678</td>
+</tr>
+<tr>
+
+<td>xmpp</td>
+<td>\e679</td>
+</tr>
+<tr>
+
+<td>yahoo</td>
+<td>\e67a</td>
+</tr>
+<tr>
+
+<td>yahoo-messenger</td>
+<td>\e67b</td>
+</tr>
+<tr>
+
+<td>windows</td>
+<td>\e67c</td>
+</tr>
+<tr>
+
+<td>yelp</td>
+<td>\e67d</td>
+</tr>
+<tr>
+
+<td>youtube-play</td>
+<td>\e67e</td>
+</tr>
+<tr>
+
+<td>zootool</td>
+<td>\e67f</td>
+</tr>
+<tr>
+
+<td>youtube</td>
+<td>\e680</td>
+</td>
+</tr>
+	
+</tbody>
+</table>
 
 ## Changelog
 
